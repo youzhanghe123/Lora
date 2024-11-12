@@ -8,6 +8,7 @@ You can try Lora_experiment.ipynb ( for lora.py) and Lora_experiment_new.ipynb (
 
 For loranew.py, please use the inference format as this style (you can also replace * with the number of layer you want to make modification): 
 
+'''
 model, _ = add_lora_to_model(
     model,
 
@@ -19,3 +20,4 @@ model, _ = add_lora_to_model(
 
     save_path = output_dir
 )
+'''
