@@ -17,6 +17,6 @@ For loranew.py, please use the inference format as this style (you can also repl
     ],
     auto_detect=False,
 
-    save_path = output_dir
-)
+    save_path = output_dir)
+
 
